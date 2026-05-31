@@ -1,4 +1,3 @@
-# Food-Cost-Prediction-using-Machine-Learning
 # Food Cost Prediction using Machine Learning
 
 ## Project Overview
@@ -64,7 +63,30 @@ Food procurement organizations need accurate cost estimation to support budgetin
 
 ## Feature Importance
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](IMPORTANT.PNG.png)
+## Model Performance
+
+The Random Forest Regression model achieved strong predictive performance:
+
+* Mean Absolute Error (MAE): 41,046.93
+* Mean Squared Error (MSE): 20,632,717,027.13
+* R² Score: 0.812
+
+The model explains approximately 81.2% of the variation in food procurement costs, indicating strong predictive capability.
+
+### Key Findings
+
+* Total Weight in lbs is the most influential factor affecting procurement cost.
+* Number of Units purchased is the second most important predictor.
+* Product type and food category contribute to cost variation but have significantly lower influence compared to volume-related variables.
+* Procurement costs are primarily driven by purchase volume and product characteristics.
+
+## Business Insights
+
+* Larger purchase quantities and weights directly increase procurement costs.
+* Procurement teams can use these insights for budgeting and demand forecasting.
+* Understanding cost drivers helps optimize purchasing strategies and supplier negotiations.
+
 
 The feature importance chart highlights the key factors influencing procurement costs.
 
