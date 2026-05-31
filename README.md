@@ -72,6 +72,7 @@ The Random Forest Regression model achieved strong predictive performance:
 * Mean Squared Error (MSE): 20,632,717,027.13
 * R² Score: 0.812
 
+
 The model explains approximately 81.2% of the variation in food procurement costs, indicating strong predictive capability.
 
 ### Key Findings
